@@ -1,0 +1,100 @@
+1	God's Plan	Drake	7	1	77.169	198973	4
+2	SAD!	XXXTENTACION	8	1	75.023	166606	4
+3	rockstar (feat. 21 Savage)	Post Malone	5	0	159.847	218147	4
+4	Psycho (feat. Ty Dolla $ign)	Post Malone	8	1	140.124	221440	4
+5	In My Feelings	Drake	1	1	91.03	217925	4
+6	Better Now	Post Malone	10	1	145.028	231267	4
+7	I Like It	Cardi B	5	0	136.048	253390	4
+8	One Kiss (with Dua Lipa)	Calvin Harris	9	0	123.994	214847	4
+9	IDGAF	Dua Lipa	7	1	97.028	217947	4
+10	FRIENDS	Marshmello	9	0	95.079	202621	4
+11	Havana	Camila Cabello	2	1	104.988	217307	4
+12	Lucid Dreams	Juice WRLD	6	0	83.903	239836	4
+13	Nice For What	Drake	8	1	93.394	210747	4
+14	Girls Like You (feat. Cardi B)	Maroon 5	0	1	124.959	235545	4
+15	The Middle	Zedd	7	1	107.01	184732	4
+16	All The Stars (with SZA)	Kendrick Lamar	8	1	96.924	232187	4
+17	no tears left to cry	Ariana Grande	9	0	121.993	205920	4
+18	X	Nicky Jam	9	0	180.073	173628	4
+19	Moonlight	XXXTENTACION	9	0	128.009	135090	4
+20	Look Alive (feat. Drake)	BlocBoy JB	10	1	140.022	181263	4
+21	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	Rudimental	0	1	92.213	210773	4
+22	Te Boté - Remix	Nio Garcia	11	0	96.507	417920	4
+23	Mine	Bazzi	4	1	142.929	131064	4
+24	Youngblood	5 Seconds of Summer	7	0	120.274	203418	4
+25	New Rules	Dua Lipa	9	0	116.073	209320	4
+26	Shape of You	Ed Sheeran	1	0	95.977	233713	4
+27	Love Lies (with Normani)	Khalid	6	1	143.955	201707	4
+28	Meant to Be (feat. Florida Georgia Line)	Bebe Rexha	10	1	153.995	164205	4
+29	Jocelyn Flores	XXXTENTACION	0	0	134.021	119133	4
+30	Perfect	Ed Sheeran	8	1	95.05	263400	3
+31	Taste (feat. Offset)	Tyga	0	1	97.994	232959	4
+32	Solo (feat. Demi Lovato)	Clean Bandit	11	0	105.005	222653	4
+33	I Fall Apart	Post Malone	8	0	143.95	223347	4
+34	Nevermind	Dennis Lloyd	3	1	99.976	156600	4
+35	Échame La Culpa	Luis Fonsi	0	1	96.024	173720	4
+36	Eastside (with Halsey & Khalid)	benny blanco	6	0	89.391	173800	4
+37	Never Be the Same	Camila Cabello	0	1	129.923	226973	4
+38	Wolves	Selena Gomez	11	0	124.946	197993	4
+39	changes	XXXTENTACION	11	1	64.934	121887	4
+40	In My Mind	Dynoro	6	1	125.905	184560	4
+41	River (feat. Ed Sheeran)	Eminem	8	0	90.09	221013	4
+42	Dura	Daddy Yankee	1	1	95	200480	4
+43	SICKO MODE	Travis Scott	8	1	155.008	312820	4
+44	Thunder	Imagine Dragons	0	1	167.997	187147	4
+45	Me Niego	Reik	0	0	94.023	221653	4
+46	Jackie Chan	Tiesto	3	0	128.005	215760	4
+47	Finesse (Remix) [feat. Cardi B]	Bruno Mars	5	0	105.115	217289	4
+48	Back To You	Selena Gomez	6	1	102.061	207905	4
+49	Let You Down	NF	5	0	148.066	212120	4
+50	Call Out My Name	The Weeknd	1	1	134.045	228373	3
+51	Ric Flair Drip (& Metro Boomin)	Offset	9	1	100.007	172800	4
+52	Happier	Marshmello	5	1	100.015	214290	4
+53	Too Good At Goodbyes	Sam Smith	5	1	91.92	201000	4
+54	Freaky Friday (feat. Chris Brown)	Lil Dicky	8	1	133.123	216632	4
+55	Believer	Imagine Dragons	10	0	124.949	204347	4
+56	FEFE (feat. Nicki Minaj & Murda Beatz)	6ix9ine	1	1	125.978	179405	4
+57	Rise	Jonas Blue	1	1	106.046	194408	4
+58	Body (feat. brando)	Loud Luxury	1	1	121.958	163216	4
+59	XO TOUR Llif3	Lil Uzi Vert	11	0	155.096	182707	4
+60	Sin Pijama	Becky G	11	0	94.014	188560	4
+61	2002	Anne-Marie	1	0	96.133	186987	4
+62	Nonstop	Drake	7	1	154.983	238614	4
+63	F*** Love (feat. Trippie Redd)	XXXTENTACION	0	0	131.036	146520	4
+64	In My Blood	Shawn Mendes	5	1	140.025	211360	4
+65	Silence	Marshmello	4	1	141.971	180823	4
+66	God is a woman	Ariana Grande	1	1	145.031	197547	4
+67	Dejala que vuelva (feat. Manuel Turizo)	Piso 21	1	1	170.019	220117	4
+68	Flames	David Guetta	5	0	93.95	194680	4
+69	What Lovers Do	Maroon 5	5	0	110.001	199849	4
+70	Taki Taki (with Selena Gomez, Ozuna & Cardi B)	DJ Snake	1	0	95.948	212500	4
+71	Let Me Go (with Alesso, Florida Georgia Line & watt)	Hailee Steinfeld	8	1	103.073	174800	4
+72	Feel It Still	Portugal. The Man	1	0	79.028	163253	4
+73	Pray For Me (with Kendrick Lamar)	The Weeknd	2	1	100.584	211440	4
+74	Walk It Talk It	Migos	2	1	145.905	276147	4
+75	Him & I (with Halsey)	G-Eazy	2	1	87.908	268867	4
+76	Candy Paint	Post Malone	4	1	180.024	227533	4
+77	Congratulations	Post Malone	6	1	123.146	220293	4
+78	1, 2, 3 (feat. Jason Derulo & De La Ghetto)	Sofia Reyes	1	0	94.968	201526	4
+79	Criminal	Natti Natasha	2	0	79.997	232550	4
+80	Plug Walk	Rich The Kid	11	1	94.981	175230	4
+81	lovely (with Khalid)	Billie Eilish	4	0	115.284	200186	4
+82	Stir Fry	Migos	2	1	181.967	190288	4
+83	HUMBLE.	Kendrick Lamar	1	0	150.011	177000	4
+84	Vaina Loca	Ozuna	6	1	93.983	176133	4
+85	Perfect Duet (Ed Sheeran & Beyonce)	Ed Sheeran	8	1	94.992	259550	3
+86	Corazon (feat. Nego do Borel)	Maluma	9	0	198.075	184720	4
+87	Young Dumb & Broke	Khalid	1	1	136.949	202547	4
+88	Síguelo Bailando	Ozuna	9	0	98.015	226800	4
+89	Downtown	Anitta	4	0	166.008	193456	4
+90	Bella	Wolfine	3	1	94.016	197120	4
+91	Promises (with Sam Smith)	Calvin Harris	11	1	123.07	213309	4
+92	Yes Indeed	Lil Baby	5	0	119.958	142273	4
+93	I Like Me Better	Lauv	9	1	91.97	197437	4
+94	This Is Me	Keala Settle	2	1	191.702	234707	4
+95	Everybody Dies In Their Nightmares	XXXTENTACION	7	0	129.953	95467	4
+96	Rewrite The Stars	Zac Efron	10	1	125.046	217440	4
+97	I Miss You (feat. Julia Michaels)	Clean Bandit	3	1	105.076	205748	4
+98	No Brainer	DJ Khaled	0	1	135.702	260000	5
+99	Dusk Till Dawn - Radio Edit	ZAYN	11	0	180.043	239000	4
+100	Be Alright	Dean Lewis	11	1	126.684	196373	4
